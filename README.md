@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timibash 
-- 🌱 I’m currently learning Web development and programming 
+- 🌱 I’m a front end web developer 
 - 📫 How to reach me timibash0921@gmail.com 
 
 <!---
